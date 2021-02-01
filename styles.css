@@ -96,7 +96,7 @@ main {
 }
 
 .column {
-  margin: 2.5% 5%;
+  margin: 0 auto;
   text-align: left;
   background: #fff;
   border-top: 1px solid #ccc;
@@ -131,19 +131,6 @@ ul.skills {
 ul.experience {
   padding: 0;
   text-align: center;
-}
-
-.experience li {
-  border-radius: 6px;
-  display: inline-block;
-  background: #ff9904;
-  color: white;
-  padding: 5px 10px;
-  margin: 2px;
-}
-
-.experience li:nth-child(odd) {
-  background: #0399ff;
 }
 
 footer {
