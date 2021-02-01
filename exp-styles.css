@@ -23,6 +23,15 @@
   
   /* Section Styles */
   
+  header {
+    text-align: center;
+    background: url('https://www.planetware.com/wpimages/2018/08/virginia-virginia-beach-where-to-stay-families.jpg') no-repeat top center ;
+    background-size: cover;
+    overflow: hidden;
+    padding-top: 100px;
+    height: 200px;
+  }
+  
   .main-nav {
     width: 100%;
     background: black;
@@ -65,7 +74,7 @@
       padding: 12% 0;
   }
   .column {
-    margin: auto;
+    margin: 0 auto;
     max-width: 33%;
     text-align: center;
     background: #fff;
