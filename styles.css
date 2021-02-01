@@ -77,6 +77,15 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
+
+.exp-header {
+    text-align: center;
+    background: url('https://www.planetware.com/wpimages/2018/08/virginia-virginia-beach-where-to-stay-families.jpg') no-repeat top center ;
+    background-size: cover;
+    overflow: hidden;
+    padding-top: 100px;
+    height: 200px;
+}
 .tag {
   background-color: #d1cfcf;
   color: black;
@@ -100,6 +109,9 @@ main {
   margin: 0;
 }
 
+.exp-info {
+    padding: 12% 0;
+}
 .column {
   margin: 0 auto;
   text-align: left;
